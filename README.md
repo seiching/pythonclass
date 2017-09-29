@@ -1,4 +1,8 @@
 # pythonclass
+開發工具
+請安裝anaconda
+https://www.anaconda.com/download/
+另外還有git
 for CPC internal study class
 (1)Python程式設計實務：從初學到活用Python開發技巧的16堂課
 http://www.books.com.tw/products/0010715895
