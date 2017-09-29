@@ -16,10 +16,12 @@
 
 # 線上課程
 ## 英文 michigan
- [零基礎 Python 入門 專項課程有五門課]
-(https://www.coursera.org/learn/python)
-[python]
-(https://www.coursera.org/specializations/python)
+- [零基礎 Python 入門 專項課程有五門課]
+
+- (https://www.coursera.org/specializations/python)
+- [python]
+- (https://www.coursera.org/learn/python)
+
 
 ## 中文南京大學
 [Data Processing Using Python]
