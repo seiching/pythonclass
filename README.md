@@ -5,7 +5,7 @@ https://gitter.im/CPC_Python_Class/Lobby
 
 
 # Pythonclass
-<pre><b><h3>開發工具</h2></b></pre>
+<pre><b><h2>開發工具</h2></b></pre>
 - 請安裝anaconda
 - https://www.anaconda.com/download/
 - 另外還有git 
