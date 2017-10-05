@@ -1,5 +1,6 @@
-﻿# 1.db2excel.ipynb ,範例讀db2
-# 2.salesforecast.ipynb範例regression 做銷售預測
-# 3.mergetable.ipynb,範例讀兩個檔案(excel,csv)做比較,資料庫也類似
-# 4.example1.py 讀ptt熱門文章
-# 5.example2.py 下載ptt某版熱門照片
+﻿# 程式說明
+- 範例讀db2<pre>db2excel.ipynb</pre>
+- 範例regression 做銷售預測<pre>salesforecast.ipynb</pre>
+- 範例讀兩個檔案(excel,csv)做比較,資料庫也類似<pre>mergetable.ipynb</pre>
+- 讀ptt熱門文章<pre>example1.py</pre>
+- 下載ptt某版熱門照片<pre>example2.py</pre>

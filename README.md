@@ -1,8 +1,11 @@
 ﻿20170929 for CPC internal study class
 
-# pythonclass
-==================================
-#開發工具  
+# 討論室
+https://gitter.im/CPC_Python_Class/Lobby
+
+
+# Pythonclass
+<pre><b>開發工具</b></pre>
 - 請安裝anaconda
 - https://www.anaconda.com/download/
 - 另外還有git 
