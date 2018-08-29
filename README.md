@@ -39,4 +39,4 @@ https://gitter.im/CPC_Python_Class/Lobby
 - david git https://github.com/ywchiu
 - 大數學堂 http://largitdata.com
 - 工程師學 AI https://buzzorange.com/techorange/2017/10/01/4-months-of-machine-and-deep-learning/
-- https://github.com/yenlung/Python-3-Data-Analysis-Basics
+- 蔡炎龍 數據分析入門  https://github.com/yenlung/Python-3-Data-Analysis-Basics
