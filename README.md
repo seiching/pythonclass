@@ -41,4 +41,4 @@ https://gitter.im/CPC_Python_Class/Lobby
 - 工程師學 AI https://buzzorange.com/techorange/2017/10/01/4-months-of-machine-and-deep-learning/
 - 蔡炎龍 成為Python數據分析達人的第一堂課  http://moocs.nccu.edu.tw/course/121/intro
 - 蔡炎龍 數據分析入門  https://github.com/yenlung/Python-3-Data-Analysis-Basics
-- https://www.codecademy.com/learn/learn-python
+- 含線上執行程式免安裝, https://www.codecademy.com/learn/learn-python
