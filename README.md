@@ -15,7 +15,7 @@ https://gitter.im/CPC_Python_Class/Lobby
 - http://ithelp.ithome.com.tw/users/20004901/ironman/525
 - 下載本課程所有資料 git clone https://github.com/seiching/pythonclass
 
-##
+#
 - (1)Python程式設計實務：[從初學到活用Python開發技巧的16堂課] (http://www.books.com.tw/products/0010715895)
 - 目前是以這本去分工閱讀
 - (2) 推薦書目 [精通 Python：運用簡單的套件進行現代運算]
@@ -24,7 +24,7 @@ https://gitter.im/CPC_Python_Class/Lobby
 (http://www.books.com.tw/products/0010728558)
 
 # 線上課程
-## 英文 michigan
+# 英文 michigan
 - [零基礎 Python 入門 專項課程有五門課]
 
 - (https://www.coursera.org/specializations/python)
@@ -32,7 +32,7 @@ https://gitter.im/CPC_Python_Class/Lobby
 - (https://www.coursera.org/learn/python)
 
 
-## 中文南京大學
+# 中文南京大學
 - [Data Processing Using Python]
 - (https://www.coursera.org/learn/python-data-processing/home/welcome)
 # 台灣資料分析網站
@@ -41,3 +41,4 @@ https://gitter.im/CPC_Python_Class/Lobby
 - 工程師學 AI https://buzzorange.com/techorange/2017/10/01/4-months-of-machine-and-deep-learning/
 - 蔡炎龍 成為Python數據分析達人的第一堂課  http://moocs.nccu.edu.tw/course/121/intro
 - 蔡炎龍 數據分析入門  https://github.com/yenlung/Python-3-Data-Analysis-Basics
+- https://www.codecademy.com/learn/learn-python
